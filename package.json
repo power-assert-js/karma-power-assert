@@ -1,0 +1,25 @@
+{
+  "name": "karma-power-assert",
+  "version": "0.0.0",
+  "description": "A Karma plugin. Adapter for power-assert assertion library.",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "grunt"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/watilde/karma-power-assert.git"
+  },
+  "keywords": [
+    "karma",
+    "karma-plugin",
+    "karma-adapter",
+    "power-assert"
+  ],
+  "author": "Daijiro Wachi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/watilde/karma-power-assert/issues"
+  },
+  "homepage": "https://github.com/watilde/karma-power-assert#readme"
+}
