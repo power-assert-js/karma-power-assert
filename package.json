@@ -18,8 +18,17 @@
   ],
   "author": "Daijiro Wachi",
   "license": "MIT",
+  "peerDependencies": {
+    "power-assert": "^1.4.1"
+  },
   "bugs": {
     "url": "https://github.com/watilde/karma-power-assert/issues"
   },
-  "homepage": "https://github.com/watilde/karma-power-assert#readme"
+  "homepage": "https://github.com/watilde/karma-power-assert#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^2.9.0",
+    "karma": "1.x || ^0.13.15",
+    "power-assert": "^1.4.1"
+  }
 }
