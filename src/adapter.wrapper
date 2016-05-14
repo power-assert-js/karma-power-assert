@@ -2,5 +2,5 @@
 
 %CONTENT%
 
-  window.assert.customize(createConfigObject(window.__karma__))
+  window.assert = window.assert.customize(createConfigObject(window.__karma__))
 })(window)
