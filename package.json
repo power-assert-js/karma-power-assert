@@ -13,7 +13,7 @@
     "postbuild": "npm install --progress=false",
     "release": "standard-version",
     "lint": "standard src/*.js lib/index.js scripts/*.js",
-    "scripts": "node scripts/refresh.js && node scripts/build.js",
+    "scripts": "node scripts/refresh.js && node scripts/build.js"
   },
   "repository": {
     "type": "git",
