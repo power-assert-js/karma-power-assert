@@ -4,7 +4,12 @@
   "description": "A Karma plugin. Adapter for power-assert assertion library.",
   "main": "lib/index.js",
   "scripts": {
-    "test": "grunt"
+    "pretest": "npm run build",
+    "test": "npm run lint && karma start",
+    "build": "npm run scripts",
+    "postbuild": "npm install --progress=false",
+    "lint": "standard src/*.js lib/index.js scripts/*.js",
+    "scripts": "node scripts/*.js"
   },
   "repository": {
     "type": "git",
@@ -16,8 +21,20 @@
     "karma-adapter",
     "power-assert"
   ],
-  "author": "Daijiro Wachi",
-  "license": "MIT",
+  "author": "Daijiro Wachi <daijiro.wachi@gmail.com>",
+  "dependencies": {},
+  "devDependencies": {
+    "karma": "1.x || ^0.13.15",
+    "karma-chrome-launcher": "1.x || ^0.2.1",
+    "karma-espower-preprocessor": "^1.1.0",
+    "karma-firefox-launcher": "1.x || ~0.1.0",
+    "karma-mocha": "^1.0.1",
+    "karma-power-assert": ".",
+    "power-assert": "^1.4.1",
+    "rimraf": "^2.5.2",
+    "standard": "^7.0.1",
+    "uglify-js": "^2.6.2"
+  },
   "peerDependencies": {
     "power-assert": "^1.4.1"
   },
@@ -25,10 +42,5 @@
     "url": "https://github.com/watilde/karma-power-assert/issues"
   },
   "homepage": "https://github.com/watilde/karma-power-assert#readme",
-  "dependencies": {},
-  "devDependencies": {
-    "eslint": "^2.9.0",
-    "karma": "1.x || ^0.13.15",
-    "power-assert": "^1.4.1"
-  }
+  "license": "MIT"
 }
