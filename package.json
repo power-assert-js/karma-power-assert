@@ -7,11 +7,11 @@
     "lib"
   ],
   "scripts": {
-    "prepublish": "npm run build",
     "pretest": "npm run build",
     "test": "npm run lint && karma start",
     "build": "npm run scripts",
     "postbuild": "npm install --progress=false",
+    "prerelease": "npm test",
     "release": "standard-version",
     "lint": "standard src/*.js lib/index.js scripts/*.js",
     "scripts": "node scripts/refresh.js && node scripts/build.js"
