@@ -7,6 +7,7 @@
     "lib"
   ],
   "scripts": {
+    "prepublish": "npm run build",
     "pretest": "npm run build",
     "test": "npm run lint && karma start",
     "build": "npm run scripts",
