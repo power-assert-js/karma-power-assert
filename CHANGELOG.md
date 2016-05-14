@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="0.0.3"></a>
+## [0.0.3](https://github.com/watilde/karma-power-assert/compare/v0.0.2...v0.0.3) (2016-05-14)
+
+
+### Bug Fixes
+
+* **readme:** add espower to example codes ([e7fb30e](https://github.com/watilde/karma-power-assert/commit/e7fb30e))
+
+
+
 <a name="0.0.2"></a>
 ## [0.0.2](https://github.com/watilde/karma-power-assert/compare/v0.0.1...v0.0.2) (2016-05-14)
 
