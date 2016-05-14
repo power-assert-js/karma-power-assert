@@ -1,7 +1,8 @@
 # karma-power-assert
 
-[![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/watilde/karma-power-assert)
- [![npm version](https://img.shields.io/npm/v/karma-power-assert.svg?style=flat-square)](https://www.npmjs.com/package/karma-power-assert) [![npm downloads](https://img.shields.io/npm/dm/karma-power-assert.svg?style=flat-square)](https://www.npmjs.com/package/karma-power-assert)
+[![npm version](https://img.shields.io/npm/v/karma-power-assert.svg?style=flat-square)](https://www.npmjs.com/package/karma-power-assert) [![npm downloads](https://img.shields.io/npm/dm/karma-power-assert.svg?style=flat-square)](https://www.npmjs.com/package/karma-power-assert)
+
+[![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/watilde/karma-power-assert) [![Standard Version](https://img.shields.io/badge/release-standard%20version-brightgreen.svg?style=flat-square)](https://github.com/watilde/karma-power-assert)
 
 [![Build Status](https://img.shields.io/travis/watilde/karma-power-assert/master.svg?style=flat-square)](https://travis-ci.org/watilde/karma-power-assert) [![Dependency Status](https://img.shields.io/david/watilde/karma-power-assert.svg?style=flat-square)](https://david-dm.org/watilde/karma-power-assert) [![devDependency Status](https://img.shields.io/david/dev/watilde/karma-power-assert.svg?style=flat-square)](https://david-dm.org/watilde/karma-power-assert#info=devDependencies)
 
