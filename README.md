@@ -27,7 +27,11 @@ module.exports = function(config) {
 
     files: [
       '*.js'
-    ]
+    ],
+
+    preprocessors: {
+      'test/**/*.spec.js': ['espower']
+    }
   });
 };
 ```
@@ -44,6 +48,10 @@ module.exports = function(config) {
     files: [
       '*.js'
     ],
+
+    preprocessors: {
+      'test/**/*.spec.js': ['espower']
+    },
 
     client: {
       assert: {
