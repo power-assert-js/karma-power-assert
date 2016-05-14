@@ -1,0 +1,6 @@
+;(function (window) {
+
+%CONTENT%
+
+  window.assert.customize(createConfigObject(window.__karma__))
+})(window)
