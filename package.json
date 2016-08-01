@@ -35,7 +35,7 @@
     "karma-firefox-launcher": "1.x || ~0.1.0",
     "karma-mocha": "^1.0.1",
     "karma-power-assert": ".",
-    "mocha": "^2.4.5",
+    "mocha": "^3.0.0",
     "power-assert": "^1.4.1",
     "rimraf": "^2.5.2",
     "standard": "^7.0.1",
