@@ -33,14 +33,14 @@
     "karma-chrome-launcher": "1.x || ^0.2.1",
     "karma-espower-preprocessor": "^1.1.0",
     "karma-firefox-launcher": "1.x || ~0.1.0",
-    "karma-mocha": "^1.0.1",
+    "karma-mocha": "^1.1.1",
     "karma-power-assert": ".",
     "mocha": "^3.0.0",
     "power-assert": "^1.4.1",
-    "rimraf": "^2.5.2",
-    "standard": "^7.0.1",
-    "standard-version": "^2.2.1",
-    "uglify-js": "^2.6.2"
+    "rimraf": "^2.5.4",
+    "standard": "^7.1.2",
+    "standard-version": "^2.4.0",
+    "uglify-js": "^2.7.0"
   },
   "peerDependencies": {
     "power-assert": "^1.4.1"
