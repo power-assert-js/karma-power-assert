@@ -5,7 +5,11 @@ All notable changes to this project will be documented in this file. See [standa
 <a name="0.0.4"></a>
 ## [0.0.4](https://github.com/watilde/karma-power-assert/compare/v0.0.3...v0.0.4) (2016-08-01)
 
+### Bug Fixes
 
+* **deps:** update `karma-mocha`, `rimraf`, `standard`, `standard-version` and `uglify-js` ([8cfd3af](https://github.com/watilde/karma-power-assert/commit/8cfd3af))
+
+* **deps:** update `mocha` ([64aa9b](https://github.com/watilde/karma-power-assert/commit/64aa9b))
 
 <a name="0.0.3"></a>
 ## [0.0.3](https://github.com/watilde/karma-power-assert/compare/v0.0.2...v0.0.3) (2016-05-14)
