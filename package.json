@@ -16,10 +16,7 @@
     "lint": "standard src/*.js lib/index.js scripts/*.js",
     "scripts": "node scripts/refresh.js && node scripts/build.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/watilde/karma-power-assert.git"
-  },
+  "repository": "watilde/karma-power-assert",
   "keywords": [
     "karma",
     "karma-plugin",
