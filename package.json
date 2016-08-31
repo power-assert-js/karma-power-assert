@@ -27,7 +27,7 @@
   "dependencies": {},
   "devDependencies": {
     "karma": "1.x || ^0.13.15",
-    "karma-chrome-launcher": "1.x || ^0.2.1",
+    "karma-chrome-launcher": "2.0.0",
     "karma-espower-preprocessor": "^1.1.0",
     "karma-firefox-launcher": "1.x || ~0.1.0",
     "karma-mocha": "^1.1.1",
