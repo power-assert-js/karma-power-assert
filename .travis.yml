@@ -8,9 +8,7 @@ script:
 language: node_js
 
 node_js:
-  - "5"
-  - "4"
-  - iojs
-  - "0.12"
+  - "7"
+  - "6"
 
 sudo: false

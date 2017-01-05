@@ -33,14 +33,14 @@
     "karma-mocha": "^1.1.1",
     "karma-power-assert": ".",
     "mocha": "^3.1.1",
-    "power-assert": "^1.4.1",
+    "power-assert": "^1.4.2",
     "rimraf": "^2.5.4",
     "standard": "^8.0.0",
     "standard-version": "^4.0.0",
     "uglify-js": "^2.7.0"
   },
   "peerDependencies": {
-    "power-assert": "^1.4.1"
+    "power-assert": "^1.4.2"
   },
   "bugs": {
     "url": "https://github.com/watilde/karma-power-assert/issues"
