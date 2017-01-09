@@ -16,7 +16,7 @@
     "lint": "standard src/*.js lib/index.js scripts/*.js",
     "scripts": "node scripts/refresh.js && node scripts/build.js"
   },
-  "repository": "watilde/karma-power-assert",
+  "repository": "power-assert-js/karma-power-assert",
   "keywords": [
     "karma",
     "karma-plugin",
@@ -43,8 +43,8 @@
     "power-assert": "^1.4.2"
   },
   "bugs": {
-    "url": "https://github.com/watilde/karma-power-assert/issues"
+    "url": "https://github.com/power-assert-js/karma-power-assert/issues"
   },
-  "homepage": "https://github.com/watilde/karma-power-assert#readme",
+  "homepage": "https://github.com/power-assert-js/karma-power-assert#readme",
   "license": "MIT"
 }
