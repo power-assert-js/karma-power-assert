@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="1.0.0"></a>
+# [1.0.0](https://github.com/power-assert-js/karma-power-assert/compare/v0.0.5...v1.0.0) (2017-01-09)
+
+
+### Bug Fixes
+
+* **package.json:** replace the old org name with new one ([9f6aebf](https://github.com/power-assert-js/karma-power-assert/commit/9f6aebf))
+
+
+
 <a name="0.0.5"></a>
 ## 0.0.5 (2017-01-05)
 
